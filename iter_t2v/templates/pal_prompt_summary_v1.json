@@ -1,0 +1,12 @@
+{
+  "total_prompts": 243,
+  "by_alignment": {
+    "mixed_culture": 162,
+    "same_culture": 81
+  },
+  "by_action_category": {
+    "food": 81,
+    "music": 81,
+    "dance": 81
+  }
+}

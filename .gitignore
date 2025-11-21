@@ -1,0 +1,23 @@
+.cache
+*.mp4
+# Ignore any "egg-info" folder (including tifascore.egg-info)
+**/*.egg-info/
+
+# Ignore any "__pycache__" folder
+**/__pycache__/
+
+# Ignore any frame level image decomposed from a video 
+**/video_to_frame/**/*.jpg
+
+# this is the result of running the [## Test TIFA score on one image] in tifa_test.py, ignore it for now
+**/tifa/resp.json
+
+**/old_prompts
+**/my_prev_prompts
+
+**/results
+
+# 03-04-2025
+*.pt
+*.jpg
+
