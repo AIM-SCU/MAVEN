@@ -70,7 +70,7 @@ If you find this work helpful, please cite:
 ```bibtex
 @article{craft2025,
   title={CRAFT: A Multi-Agent Framework for Multicultural Text-to-Video Generation},
-  author={[Shuowei Li, Oana Ignat]},
+  author={[Shuowei Li, Yuming Zhao, Parth Bhalerao, Oana Ignat]},
   year={2025}
 }
 ```
