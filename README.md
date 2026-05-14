@@ -1,4 +1,4 @@
-\title{MAVEN: A Multi-Agent Framework for \\ Multicultural Text-to-Video Generation}
+# MAVEN: A Multi-Agent Framework for Multicultural Text-to-Video Generation
 
 **M**ulti-**A**gent **V**ideo **E**nrichment for cultural **N**arrative
 
