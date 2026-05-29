@@ -60,10 +60,10 @@ We construct a comprehensive dataset of **972 videos** covering:
 - 9 iconic cultural locations
 - Both mono-cultural and cross-cultural scenarios
 
-<!--The dataset is available at https://huggingface.co/datasets/sl-scu/multicultural_multiagent_videos-->
+The dataset is available at [https://huggingface.co/datasets/sl-scu/multicultural_multiagent_videos](https://huggingface.co/datasets/AIM-SCU/MAVEN_Multicultura_Text-to-Video_Generation)
 
 
-<!--## Citation
+## Citation
 
 If you find this work helpful, please cite:
 
@@ -73,7 +73,7 @@ If you find this work helpful, please cite:
   author={[Shuowei Li, Yuming Zhao, Parth Bhalerao, Oana Ignat]},
   year={2025}
 }
-```-->
+```
 
 ## Acknowledgments
 
