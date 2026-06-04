@@ -60,7 +60,7 @@ We construct a comprehensive dataset of **972 videos** covering:
 - 9 iconic cultural locations
 - Both mono-cultural and cross-cultural scenarios
 
-The dataset is available at [https://huggingface.co/datasets/sl-scu/multicultural_multiagent_videos](https://huggingface.co/datasets/AIM-SCU/MAVEN_Multicultura_Text-to-Video_Generation)
+The dataset is available at [https://huggingface.co/datasets/AIM-SCU/MAVEN_Multicultura_Text-to-Video_Generation](https://huggingface.co/datasets/AIM-SCU/MAVEN_Multicultura_Text-to-Video_Generation)
 
 
 ## Citation
