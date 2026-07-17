@@ -59,20 +59,7 @@ We construct a comprehensive dataset of **972 videos** covering:
 - 9 iconic cultural locations
 - Both mono-cultural and cross-cultural scenarios
 
-The dataset is available at [https://huggingface.co/datasets/AIM-SCU/MAVEN_Multicultura_Text-to-Video_Generation](https://huggingface.co/datasets/AIM-SCU/MAVEN_Multicultura_Text-to-Video_Generation)
 
-
-## Citation
-
-If you find this work helpful, please cite:
-
-```bibtex
-@article{MAVEN2025,
-  title={When Cultures Move: Measuring and Improving
-Multicultural Text-to-Video Generation},
-  author={[Shuowei Li, Yuming Zhao, Parth Bhalerao, Oana Ignat]},
-  year={2025}
-}
 ```
 
 ## Acknowledgments
