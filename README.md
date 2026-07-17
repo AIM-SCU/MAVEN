@@ -1,5 +1,4 @@
-# When Cultures Move: Measuring and Improving
-Multicultural Text-to-Video Generation
+# When Cultures Move: Measuring and Improving Multicultural Text-to-Video Generation
 
 
 ## Overview
