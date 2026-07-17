@@ -1,10 +1,10 @@
-# MAVEN: A Multi-Agent Framework for Multicultural Text-to-Video Generation
+# When Cultures Move: Measuring and Improving
+Multicultural Text-to-Video Generation
 
-**M**ulti-**A**gent **V**ideo **E**nrichment for cultural **N**arrative
 
 ## Overview
 
-MAVEN is a multi-agent prompt refinement framework designed to improve the cultural fidelity and inclusivity of text-to-video (T2V) generation systems. With the rapid development of T2V models, there is an increasing need to accurately represent diverse cultures not only in isolation but also when multiple cultural elements are combined within a single prompt.
+This is a multi-agent prompt refinement framework designed to improve the cultural fidelity and inclusivity of text-to-video (T2V) generation systems. With the rapid development of T2V models, there is an increasing need to accurately represent diverse cultures not only in isolation but also when multiple cultural elements are combined within a single prompt.
 
 This repository contains the implementation and evaluation code for our research on culturally faithful text-to-video generation.
 
@@ -16,9 +16,9 @@ Current T2V models face two main challenges:
 
 ## Approach
 
-![MAVEN Framework Overview](iter_t2v/thesis/figures/main.png)
+![Framework Overview](iter_t2v/thesis/figures/main.png)
 
-MAVEN addresses these challenges through a three-step pipeline:
+This addresses these challenges through a three-step pipeline:
 
 ### Step 1: Mono- and Cross-Cultural Prompt Construction
 - **3 Cultures**: Chinese, Romanian, American
@@ -69,7 +69,8 @@ If you find this work helpful, please cite:
 
 ```bibtex
 @article{MAVEN2025,
-  title={MAVEN: A Multi-Agent Framework for \\ Multicultural Text-to-Video Generation},
+  title={When Cultures Move: Measuring and Improving
+Multicultural Text-to-Video Generation},
   author={[Shuowei Li, Yuming Zhao, Parth Bhalerao, Oana Ignat]},
   year={2025}
 }
